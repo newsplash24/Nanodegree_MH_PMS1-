@@ -146,7 +146,7 @@ public class MainActivity extends AppCompatActivity implements MoviesAdapter.onI
 
             if(mToast != null)
                 mToast.cancel();
-            mToast = Toast.makeText(this, "Make sure you connected and try again", Toast.LENGTH_LONG);
+            mToast = Toast.makeText(this, "Make sure you'r connected and try again", Toast.LENGTH_LONG);
             mToast.show();
         }
     }
