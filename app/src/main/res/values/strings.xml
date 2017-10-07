@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="API_KEY">[Your API Key here]</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+
+    <string name="param_most_popular">popular</string>
+    <string name="param_top_rated">top_rated</string>
+</resources>
